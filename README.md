@@ -8,4 +8,3 @@ Linguagens utilizadas:
 </h3>
 
 <img src="https://github.com/tonyfeitosa23/we-care-responsive/blob/main/img/We%20Care%20Desktop.png?raw=true" width="700px">
-<img src="">
